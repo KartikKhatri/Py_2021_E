@@ -11,6 +11,15 @@ Total Number of Students : Approx 10-15.
 Course Duration : October To December. (3 Months)
 
 Followed by an End Exam + Project.
+=================================================
+
+Naming Convention For Files:-
+
+(prefix=topic)(program=name)(input=arguements/data-type)
+
+Folder Naming:-
+
+(topic=name)(sub=topic)(sub=program)
 
 ==================================================
 Study Material :
