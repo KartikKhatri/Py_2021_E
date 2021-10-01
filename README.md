@@ -27,4 +27,11 @@ Study Material :
  Project Ideas:-
     https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/
     
+ ==================================================
+ 
+ Official Python Documentation: 
+ https://docs.python.org/3/
+ 
+ Standard Library :
+ https://docs.python.org/3/library/index.html
  
